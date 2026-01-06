@@ -1,4 +1,4 @@
-# Financial Compliance & Intelligence Agent 🤖💸
+# FinSentinel: Autonomous Financial Recovery & Compliance Agent 🤖💸
 
 ## 🚀 Overview
 An Autonomous AI Agent designed to assist financial institutions in processing overdue accounts and compliance documents. By leveraging **Retrieval-Augmented Generation (RAG)**, this system ingests unstructured data (PDFs/Policies) and provides accurate, citation-backed answers to support decision-making.
